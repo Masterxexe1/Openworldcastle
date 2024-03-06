@@ -11,10 +11,21 @@
 				"Editor"
 			]
 		},
+{
+			"Name": "AnimationLocomotionLibrary",
+			"Enabled": true
+		},
 		{
-			"Name": "Pedestrian_System",
-			"Enabled": true,
-			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/product/a5ad0dbce5f743b3ba2a78d893d32b6f"
-		}
+			"Name": "AnimationWarping",
+			"Enabled": true
+		},
+		{
+			"Name": "Spatialization",
+			"Enabled": true
+		},
+		{
+			"Name": "AudioModulation",
+			"Enabled": true
+		},
 	]
 }
